@@ -1,4 +1,4 @@
-Hi there, I'm Muhammad Talha Nazir 👋
+# Hi there, I'm Muhammad Talha Nazir 👋
 
 Full Stack Developer | Python, React & Next.js | AI Enthusiast
 
