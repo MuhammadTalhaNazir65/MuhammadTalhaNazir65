@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Talha Nazir 👋
 
-<!--
-**MuhammadTalhaNazir65/MuhammadTalhaNazir65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer interested in Artificial Intelligence, Python programming, and building innovative software solutions.
+
+### 🚀 About Me
+- 💻 Software Developer
+- 🐍 Interested in Python Development
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📚 Always learning new technologies
+- 🎯 Focused on building practical projects and improving my skills
+
+### 🛠️ Skills & Technologies
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Git & GitHub
+- Software Development
+
+### 📂 My Projects
+
+**1. FINAL-PROJECT**
+
+My personal GitHub project.
+
+[View Repository](https://github.com/MuhammadTalhaNazir65/FINAL-PROJECT)
+
+**2. DRM Raya**
+
+A forked project from Excel-Soft.
+
+[View Repository](https://github.com/MuhammadTalhaNazir65/DRM_raya)
+
+**3. DRM Raya Frontend**
+
+Frontend repository forked from Excel-Soft.
+
+[View Repository](https://github.com/MuhammadTalhaNazir65/DRM_raya_frontend)
+
+### 🤝 Connect With Me
+
+- GitHub: [MuhammadTalhaNazir65](https://github.com/MuhammadTalhaNazir65)
+
+---
+⭐ Thanks for visiting my profile!
