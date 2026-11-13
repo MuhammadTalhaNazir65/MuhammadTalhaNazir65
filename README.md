@@ -1,24 +1,35 @@
-# Hi there, I'm Muhammad Talha Nazir 👋
+Hi there, I'm Muhammad Talha Nazir 👋
 
-### AI Engineer | Python Developer
+Full Stack Developer | Python, React & Next.js | AI Enthusiast
 
 Welcome to my GitHub profile!
 
-I'm a passionate developer interested in Artificial Intelligence, Python programming, and building innovative software solutions.
+I'm a passionate developer interested in Full Stack Development, Python programming, and building innovative software solutions.
 
-### 🚀 About Me
+🚀 About Me
 - 💻 Software Developer
+- 🌱 Interested in Full Stack Development
 - 🐍 Interested in Python Development
 - 🤖 Exploring Artificial Intelligence and Machine Learning
 - 📚 Always learning new technologies
 - 🎯 Focused on building practical projects and improving my skills
 
-### 🛠️ Skills & Technologies
-- Python
+🛠️ Skills & Technologies
+- React.js / Next.js
+- Node.js / Express.js
+- Python / FastAPI
+- PostgreSQL / MongoDB
 - Artificial Intelligence
 - Machine Learning
 - Git & GitHub
 - Software Development
+
+📁 My Projects
+1. FINAL-PROJECT
+My personal GitHub project.
+
+📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/talha-nazir-3496a7294
 
 ### 📂 My Projects
 
